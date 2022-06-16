@@ -1,0 +1,33 @@
+::-webkit-scrollbar {
+    display: none;
+}
+
+.table {
+    border-style: none;
+}
+
+th {
+    background-color: white;
+    white-space: pre-wrap;
+    font-size: 25px;
+    color: green;
+    border-left:5px solid #D3D3D3;
+    border-right:5px solid #D3D3D3;
+    border-bottom:5px solid #D3D3D3;
+  
+}
+
+td {
+    border-left:5px solid #D3D3D3;
+    border-right:5px solid #D3D3D3;
+}
+
+tr {
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.input{
+    background-color: white;
+}
+
